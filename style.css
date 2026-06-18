@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+    font-family: sans-serif;
+}
+
+.accent-header {
+    background: linear-gradient(135deg, #059669, #10b981);
+    color: white;
+    border-radius: 12px;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
+
+.progress {
+    height: 25px;
+    border-radius: 8px;
+    font-weight: bold;
+}
